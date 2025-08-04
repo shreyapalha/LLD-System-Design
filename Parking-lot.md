@@ -12,6 +12,7 @@
    1. type -> enum [2 wheeler, 3, 4]
    2. timeIn
    3. timeOut
+   4. pl
 2. parking_space
    3. type
    4. blocked

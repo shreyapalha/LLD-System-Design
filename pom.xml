@@ -5,7 +5,10 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>parking-lot-lld</module>
-	</modules>
+        <module>head-first-design</module>
+        <module>concept-coding</module>
+        <module>concept-coding</module>
+    </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
